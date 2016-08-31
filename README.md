@@ -2,7 +2,7 @@
 
 ## Description
 
-This exercise has a simple input field and a button. The text input will only accept letters and then outputs the string in the DOM as follows:
+This exercise has a simple input field and a button. The text input will only accept letters and then outputs the string in the DOM as follows:<br>
 1. outputs the string as entered <br>
 2. outputs the reversed string <br>
 3. outputs the characters in the string in alphabetical order <br>
